@@ -35,15 +35,12 @@ def output_layout():
     )
     
     with st.sidebar:
-        st.subheader("Cientistas de Dados")
-        st.text("André Luiz Pedroso (RM353107)") 
-        st.text("David Robert de Oliveira (RM352754)")
-        st.text("Lucas Rana Rosa Fernandes (RM353105)") 
-        st.text("Raphael Gottstein Alves dos Santos (RM353054)")
-        st.text("Wellington Porto Brito (RM352977)")
-        st.subheader("Turma")
-        st.text("3DTAT")   
-
+        st.subheader("Grupo")
+        st.text("Edson Yuji Murata") 
+        st.text("Lucas David de Oliveira")
+        st.text("RAFAEL ISHIY MACEDO") 
+        st.text("Raphaela Rodrigues Coelho")
+        
         st.divider()
         
         st.subheader("Guia de Instalação e Execução do Aplicativo Localmente")

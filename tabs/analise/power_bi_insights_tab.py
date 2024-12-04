@@ -49,11 +49,11 @@ class PowerBIInsightsTab(TabInterface):
 
              st.markdown(
                 """      
-                :three: **2022 (Pico de 133 USD):**\n
-                A invasão da Ucrânia pela Rússia gerou temores de interrupções no fornecimento global, uma vez que a Rússia é um dos maiores exportadores de petróleo.Sanções contra o setor energético russo agravaram a incerteza no mercado, impulsionando os preços.\n
+                :three: **2020 (Colapso para 9 USD):**\n
+                A pandemia de COVID-19 provocou um choque de demanda devido à redução drástica de viagens e atividades industriais.Em abril de 2020, uma guerra de preços entre Arábia Saudita e Rússia contribuiu para intensificar a queda, resultando até em preços negativos nos contratos futuros (não representados diretamente no gráfico).\n
                  """
             )   
            
-        st.image("assets/img/Eventos_04.png", caption="Análise dos Eventos-Chave 2020 que Impactaram os Preços do Petróleo Brent (Power BI)")
+        st.image("assets/img/Eventos_03.png", caption="Análise dos Eventos-Chave 2020 que Impactaram os Preços do Petróleo Brent (Power BI)")
 
             

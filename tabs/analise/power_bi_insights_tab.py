@@ -41,11 +41,11 @@ class PowerBIInsightsTab(TabInterface):
         st.markdown(
                 """      
                 :three: **2020 (Colapso para 9 USD):**\n
-                Avanços tecnológicos na extração de petróleo, como a exploração de xisto nos Estados Unidos, têm o potencial de aumentar a oferta de petróleo, influenciando os preços. A revolução do xisto na última década fez com que os EUA se tornassem um dos maiores produtores de petróleo, impactando significativamente os preços globais. O desenvolvimento de técnicas de fraturamento hidráulico e perfuração horizontal foram fatores chave nessa transformação.\n
+                A pandemia de COVID-19 provocou um choque de demanda devido à redução drástica de viagens e atividades industriais.Em abril de 2020, uma guerra de preços entre Arábia Saudita e Rússia contribuiu para intensificar a queda, resultando até em preços negativos nos contratos futuros (não representados diretamente no gráfico).\n
                  """
             )   
            
-        
+       
                 
             
                 

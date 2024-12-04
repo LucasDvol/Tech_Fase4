@@ -1,6 +1,6 @@
 # Fiap-Tech-Challenge-04
 Repositório do aplicativo Streamlit para o 4º Tech Challenge da FIAP<br/>
-**Link Streamlit:https://fiap-tech-challenge-04.streamlit.app/](https://techfase4-xug5j9xdf7hkeehwakalt6.streamlit.app**
+**Link Streamlit:https://fiap-tech-challenge-04.streamlit.app/](https://techfase4-xug5j9xdf7hkeehwakalt6.streamlit.app](https://techfase4-xug5j9xdf7hkeehwakalt6.streamlit.app**
 
 ## Instruções para Executar o Projeto Streamlit
 **1.** Certifique-se de ter o Python 3.x instalado e configurado no seu computador.<br/>

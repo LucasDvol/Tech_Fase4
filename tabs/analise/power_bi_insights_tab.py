@@ -49,8 +49,7 @@ class PowerBIInsightsTab(TabInterface):
 
             st.markdown(
                 """    
-            
-                :four: **2022 (Pico de 133 USD):**\n
+               :four: **2022 (Pico de 133 USD):**\n
                 A invasão da Ucrânia pela Rússia gerou temores de interrupções no fornecimento global, uma vez que a Rússia é um dos maiores exportadores de petróleo.Sanções contra o setor energético russo agravaram a incerteza no mercado, impulsionando os preços.\n
                    """
             )   

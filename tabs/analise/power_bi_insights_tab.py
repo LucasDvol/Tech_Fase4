@@ -22,7 +22,7 @@ class PowerBIInsightsTab(TabInterface):
             st.markdown(
                 """
                 A compreensão dos eventos que impactam o mercado de petróleo é essencial para prever flutuações nos preços. Eventos específicos podem ter impactos significativos e variados nos preços do petróleo, influenciando diretamente a oferta e a demanda.\n
-                :one: **Interrupções na Oferta:**\n
+                :one::one: **Interrupções na Oferta:**\n
                 Interrupções na oferta de petróleo, como conflitos geopolíticos, desastres naturais ou sanções econômicas, frequentemente resultam em aumentos nos preços. Por exemplo, a guerra no Oriente Médio ou sanções impostas a países exportadores de petróleo podem restringir a oferta, levando a um aumento nos preços globais. A crise do petróleo de 1973, causada pelo embargo da OPEP, levou a um aumento drástico dos preços e teve consequências econômicas profundas em nível global.\n
                 """
             )

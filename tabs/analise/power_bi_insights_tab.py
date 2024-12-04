@@ -48,8 +48,14 @@ class PowerBIInsightsTab(TabInterface):
         st.image("assets/img/Eventos_03.png", caption="Análise dos Eventos-Chave 2020 que Impactaram os Preços do Petróleo Brent (Power BI)")
 
             
-                st.markdown(
-                """    
-               :four: **2022 (Pico de 133 USD):**\n
-                
+              
+            st.markdown(
+                """  
+            
+                :five: **2023-2024 (Estabilização em torno de 70-80 USD):**\n
+                Eventos inesperados, como a pandemia de COVID-19, também têm efeitos substanciais no mercado de petróleo. Em 2020, as restrições de mobilidade e a desaceleração econômica global causadas pela pandemia levaram a uma queda histórica na demanda por petróleo, resultando em preços negativos pela primeira vez na história. Isso evidenciou a vulnerabilidade do mercado a choques de demanda repentinos e extremos.
+                  """
+            )
+
+                st.image("assets/img/Eventos_05.png", caption="Análise dos Eventos-Chave 2011-2014 que Impactaram os Preços do Petróleo Brent (Power BI)")   
             

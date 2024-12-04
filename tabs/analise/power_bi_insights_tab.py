@@ -13,10 +13,10 @@ class PowerBIInsightsTab(TabInterface):
 
             st.markdown(
                 """
-                Eventos específicos têm impactos distintos nos preços do petróleo. Por exemplo, interrupções na oferta geralmente causam aumentos de preços, enquanto recessões econômicas podem levar a quedas. Identificar e entender esses eventos é crucial para prever movimentos futuros nos preços.
+                Eventos específicos influenciam os preços do petróleo de maneiras distintas. Por exemplo, interrupções na produção frequentemente resultam em alta nos preços, enquanto períodos de recessão econômica tendem a provocar reduções. Reconhecer e compreender esses fatores é essencial para antecipar as variações futuras nos preços.
                 """
             )
-            st.image("assets/img/4_insights_PBI.jpeg", caption="Gráfico de Insights e Eventos-Chave: Análise de Preços (Power BI)")
+            st.image("assets/img/Evolucao_preco.png", caption="Gráfico de Insights e Eventos-Chave: Análise de Preços (Power BI)")
 
             st.subheader(":orange[Análise Detalhada dos Eventos e Seus Impactos]")
             st.markdown(

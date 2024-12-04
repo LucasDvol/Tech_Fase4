@@ -47,13 +47,5 @@ class PowerBIInsightsTab(TabInterface):
            
         st.image("assets/img/Eventos_03.png", caption="Análise dos Eventos-Chave 2020 que Impactaram os Preços do Petróleo Brent (Power BI)")
 
-            st.markdown(
-                """    
-               :four: **2022 (Pico de 133 USD):**\n
-                A invasão da Ucrânia pela Rússia gerou temores de interrupções no fornecimento global, uma vez que a Rússia é um dos maiores exportadores de petróleo.Sanções contra o setor energético russo agravaram a incerteza no mercado, impulsionando os preços.\n
-                 """
-            )   
-                
-                
             
                 

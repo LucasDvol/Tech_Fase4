@@ -29,4 +29,11 @@ class PowerBIInsightsTab(TabInterface):
 
             st.image("assets/img/Eventos_01.png", caption="Análise dos Eventos-Chave 2011-2014 que Impactaram os Preços do Petróleo Brent (Power BI)")
 
+            st.markdown(
+                """    
+                :two: **2014-2016 (Queda acentuada, de 115 USD para 26 USD):**\n
+                A queda abrupta foi causada por uma estratégia da OPEP de manter alta a produção de petróleo, tentando proteger sua participação no mercado frente ao aumento da produção de petróleo de xisto nos EUA.A desaceleração econômica da China também reduziu a demanda global, ampliando o excesso de oferta.\n
+              """
+            )     
+              
             

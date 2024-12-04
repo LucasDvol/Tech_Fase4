@@ -23,7 +23,7 @@ class PowerBIInsightsTab(TabInterface):
                 """
                 A compreensão dos eventos que impactam o mercado de petróleo é essencial para prever flutuações nos preços. Eventos específicos podem ter impactos significativos e variados nos preços do petróleo, influenciando diretamente a oferta e a demanda.\n
                 :one: **2011-2014 (Preços elevados, acima de 100 USD):**\n
-                A alta \n
+                A alta foi \n
                 """
             )
 

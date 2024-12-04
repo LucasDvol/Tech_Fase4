@@ -48,4 +48,8 @@ class PowerBIInsightsTab(TabInterface):
         st.image("assets/img/Eventos_03.png", caption="Análise dos Eventos-Chave 2020 que Impactaram os Preços do Petróleo Brent (Power BI)")
 
             
+                st.markdown(
+                """    
+               :four: **2022 (Pico de 133 USD):**\n
                 
+            

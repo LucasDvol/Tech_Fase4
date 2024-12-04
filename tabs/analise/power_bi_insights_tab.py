@@ -27,7 +27,7 @@ class PowerBIInsightsTab(TabInterface):
                 """
             )
 
-            st.image("assets/img/Eventos_01_PBI.jpeg", caption="Análise dos Eventos-Chave que Impactaram os Preços do Petróleo Brent (Power BI)")
+            st.image("assets/img/Eventos_01.png", caption="Análise dos Eventos-Chave 2011-2014 que Impactaram os Preços do Petróleo Brent (Power BI)")
 
             st.markdown(
                 """    

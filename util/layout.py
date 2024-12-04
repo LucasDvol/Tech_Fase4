@@ -38,7 +38,7 @@ def output_layout():
         st.subheader("Grupo")
         st.text("Edson Yuji Murata") 
         st.text("Lucas David de Oliveira")
-        st.text("RAFAEL ISHIY MACEDO") 
+        st.text("Rafael Ishiy Macedo") 
         st.text("Raphaela Rodrigues Coelho")
         
         st.divider()

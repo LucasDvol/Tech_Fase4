@@ -42,13 +42,18 @@ class PowerBIInsightsTab(TabInterface):
                 """      
                 :three: **2020 (Colapso para 9 USD):**\n
                 A pandemia de COVID-19 provocou um choque de demanda devido à redução drástica de viagens e atividades industriais.Em abril de 2020, uma guerra de preços entre Arábia Saudita e Rússia contribuiu para intensificar a queda, resultando até em preços negativos nos contratos futuros (não representados diretamente no gráfico).\n
-                 st.image("assets/img/Eventos_03.png", caption="Análise dos Eventos-Chave 2020 que Impactaram os Preços do Petróleo Brent (Power BI)")
+                  """
+            )  
                  
+                 st.image("assets/img/Eventos_03.png", caption="Análise dos Eventos-Chave 2020 que Impactaram os Preços do Petróleo Brent (Power BI)")
+             
+        st.markdown(
+                """      
                  :four: **2020 (Colapso para 9 USD):**\n
                 A pandemia de COVID-19 provocou um choque de demanda devido à redução drástica de viagens e atividades industriais.Em abril de 2020, uma guerra de preços entre Arábia Saudita e Rússia contribuiu para intensificar a queda, resultando até em preços negativos nos contratos futuros (não representados diretamente no gráfico).\n
-                 """
-            )   
-           
+               
+            """
+            )  
         
 
             

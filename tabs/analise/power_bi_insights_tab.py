@@ -31,14 +31,28 @@ class PowerBIInsightsTab(TabInterface):
 
             st.markdown(
                 """    
-                :two: **Recessões Econômicas:**\n
+                :two: **2014-2016 (Queda acentuada, de 115 USD para 26 USD):**\n
                 Recessões econômicas, por outro lado, geralmente resultam em quedas nos preços do petróleo. Durante uma recessão, a demanda por petróleo tende a diminuir devido à desaceleração da atividade econômica. A crise financeira global de 2008 é um exemplo marcante, onde a redução da demanda levou a uma queda acentuada nos preços do petróleo. Similarmente, a crise da dívida europeia que começou em 2010 teve um impacto significativo ao reduzir a demanda de petróleo na região.\n
-                :three: **Avanços Tecnológicos:**\n
+                )
+
+            st.image("assets/img/Eventos_02.png", caption="Análise dos Eventos-Chave 2011-2014 que Impactaram os Preços do Petróleo Brent (Power BI)")
+                
+
+                :three: **2020 (Colapso para 9 USD):**\n
                 Avanços tecnológicos na extração de petróleo, como a exploração de xisto nos Estados Unidos, têm o potencial de aumentar a oferta de petróleo, influenciando os preços. A revolução do xisto na última década fez com que os EUA se tornassem um dos maiores produtores de petróleo, impactando significativamente os preços globais. O desenvolvimento de técnicas de fraturamento hidráulico e perfuração horizontal foram fatores chave nessa transformação.\n
-                :four: **Políticas Energéticas e Ambientais:**\n
+               
+            st.image("assets/img/Eventos_03.png", caption="Análise dos Eventos-Chave 2011-2014 que Impactaram os Preços do Petróleo Brent (Power BI)")
+                
+                :four: **2022 (Pico de 133 USD):**\n
                 Políticas governamentais e acordos internacionais visando a redução das emissões de carbono podem impactar a demanda por petróleo. A transição para fontes de energia renovável, incentivada por políticas ambientais rigorosas, pode reduzir a dependência de petróleo, afetando os preços a longo prazo. Iniciativas como o Acordo de Paris têm influenciado as políticas energéticas de diversos países, promovendo uma transição para energias mais limpas.\n
-                :five: **Pandemias Globais:**\n
+                
+                st.image("assets/img/Eventos_04.png", caption="Análise dos Eventos-Chave 2011-2014 que Impactaram os Preços do Petróleo Brent (Power BI)")
+               
+                :five: **2023-2024 (Estabilização em torno de 70-80 USD):**\n
                 Eventos inesperados, como a pandemia de COVID-19, também têm efeitos substanciais no mercado de petróleo. Em 2020, as restrições de mobilidade e a desaceleração econômica global causadas pela pandemia levaram a uma queda histórica na demanda por petróleo, resultando em preços negativos pela primeira vez na história. Isso evidenciou a vulnerabilidade do mercado a choques de demanda repentinos e extremos.
+              
+                st.image("assets/img/Eventos_05.png", caption="Análise dos Eventos-Chave 2011-2014 que Impactaram os Preços do Petróleo Brent (Power BI)")
+                
                 """
             )
 

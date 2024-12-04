@@ -37,14 +37,34 @@ class PowerBIInsightsTab(TabInterface):
             )     
               
             st.image("assets/img/Eventos_02.png", caption="Análise dos Eventos-Chave 2014-2016 que Impactaram os Preços do Petróleo Brent (Power BI)")
-          st.markdown(
+         
+        st.markdown(
                 """      
-
                 :three: **2020 (Colapso para 9 USD):**\n
                 Avanços tecnológicos na extração de petróleo, como a exploração de xisto nos Estados Unidos, têm o potencial de aumentar a oferta de petróleo, influenciando os preços. A revolução do xisto na última década fez com que os EUA se tornassem um dos maiores produtores de petróleo, impactando significativamente os preços globais. O desenvolvimento de técnicas de fraturamento hidráulico e perfuração horizontal foram fatores chave nessa transformação.\n
                  """
             )   
-            st.image("assets/img/Eventos_03.png", caption="Análise dos Eventos-Chave 2011-2014 que Impactaram os Preços do Petróleo Brent (Power BI)")
-
            
+        st.image("assets/img/Eventos_03.png", caption="Análise dos Eventos-Chave 2011-2014 que Impactaram os Preços do Petróleo Brent (Power BI)")
+
+            st.markdown(
+                """    
+            
+                :four: **2022 (Pico de 133 USD):**\n
+                Políticas governamentais e acordos internacionais visando a redução das emissões de carbono podem impactar a demanda por petróleo. A transição para fontes de energia renovável, incentivada por políticas ambientais rigorosas, pode reduzir a dependência de petróleo, afetando os preços a longo prazo. Iniciativas como o Acordo de Paris têm influenciado as políticas energéticas de diversos países, promovendo uma transição para energias mais limpas.\n
+                   """
+            )   
+                st.image("assets/img/Eventos_04.png", caption="Análise dos Eventos-Chave 2011-2014 que Impactaram os Preços do Petróleo Brent (Power BI)")
+              
+            st.markdown(
+                """  
+            
+                :five: **2023-2024 (Estabilização em torno de 70-80 USD):**\n
+                Eventos inesperados, como a pandemia de COVID-19, também têm efeitos substanciais no mercado de petróleo. Em 2020, as restrições de mobilidade e a desaceleração econômica global causadas pela pandemia levaram a uma queda histórica na demanda por petróleo, resultando em preços negativos pela primeira vez na história. Isso evidenciou a vulnerabilidade do mercado a choques de demanda repentinos e extremos.
+                  """
+            )
+
+                st.image("assets/img/Eventos_05.png", caption="Análise dos Eventos-Chave 2011-2014 que Impactaram os Preços do Petróleo Brent (Power BI)")
+                
+            
                 

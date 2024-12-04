@@ -46,3 +46,21 @@ class PowerBIInsightsTab(TabInterface):
                 """
             )
             st.image("assets/img/Eventos_03.png", caption="Análise dos Eventos-Chave 2020 que Impactaram os Preços do Petróleo Brent (Power BI)")
+
+            st.markdown(
+                """
+                :four: **2022 (Pico de 133 USD):**\n
+                - A invasão da Ucrânia pela Rússia gerou temores de interrupções no fornecimento global, uma vez que a Rússia é um dos maiores exportadores de petróleo.
+                """
+            )
+            st.image("assets/img/Eventos_04.png", caption="Análise dos Eventos-Chave 2022 que Impactaram os Preços do Petróleo Brent (Power BI)")
+
+            st.markdown(
+                """
+                :five: **2023-2024 (Estabilização em torno de 70-80 USD):**\n
+                - Uma combinação de fatores, incluindo aumento da produção pelos EUA e países não-OPEP, desaceleração econômica global e políticas de transição energética, ajudaram a moderar os preços.
+                - As preocupações com recessões em grandes economias, como EUA e Europa, também diminuíram a pressão sobre os preços.
+                - Sanções contra o setor energético russo agravaram a incerteza no mercado, impulsionando os preços.
+                """
+            )
+            st.image("assets/img/Eventos_05.png", caption="Análise dos Eventos-Chave 2023-2024 que Impactaram os Preços do Petróleo Brent (Power BI)")

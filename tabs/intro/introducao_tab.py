@@ -17,4 +17,4 @@ class IntroTab(TabInterface):
             Portanto, prepare-se para uma jornada pela geopolítica, crises econômicas, demanda energética e inovações tecnológicas, enquanto desvendamos os mistérios por trás das oscilações do preço do petróleo e exploramos as implicações desses insights para o futuro do mercado energético global.
             ''')
            
-            st.image('assets/img/oil-and-gas.jpg', caption='Extração de petróleo: alimentando o mundo com energia', use_column_width=True, output_format='auto')
+            #st.image('assets/img/oil-and-gas.jpg', caption='Extração de petróleo: alimentando o mundo com energia', use_column_width=True, output_format='auto')

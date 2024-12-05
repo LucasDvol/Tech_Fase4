@@ -12,12 +12,12 @@ def output_layout():
                 use_relative_hash=True,
             ),
 
-              Page(
-                "./pages/deploy.py",
-                "Deploy",
-                ":gear:",
-                use_relative_hash=True,
-            ),
+              #Page(
+              #  "./pages/deploy.py",
+             #   "Deploy",
+             #   ":gear:",
+              #  use_relative_hash=True,
+           # ),
 
             Page(
                 "./pages/conclusao.py",

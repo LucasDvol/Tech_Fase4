@@ -46,12 +46,4 @@ class MetodologiaTab(TabInterface):
                 - **RMSE (Raiz do Erro Quadrático Médio):** O RMSE é a raiz quadrada do MSE e fornece uma medida da dispersão dos erros em unidades da variável de interesse. Assim como o MSE, valores mais baixos de RMSE indicam que o modelo tem uma boa capacidade de prever os valores reais.
                 """
             )
-            st.subheader(":orange[Google Colab]")
-            st.markdown(
-               """
-               Utilizamos o Google Colab para executar o código Python e realizar a análise dos dados do preço do petróleo. O Google Colab é uma plataforma gratuita oferecida pelo Google, acessível a qualquer usuário que possua uma conta Google.\n
-               Esta ferramenta permite a execução de códigos Python em servidores da própria Google, facilitando o desenvolvimento e a execução de projetos de análise de dados e aprendizado de máquina sem a necessidade de configuração de um ambiente local.\n
-               Além disso, o Google Colab oferece acesso a poderosos recursos de computação, incluindo GPUs, o que pode acelerar significativamente o processamento de dados e a execução de modelos complexos. Essa flexibilidade e acessibilidade tornam o Colab uma escolha ideal para a análise de grandes conjuntos de dados, como os históricos de preços do petróleo.
-               """
-            )
-            st.image('assets/img/Interface_Colab.png', caption='Interface do usuário do Google Colab')
+        

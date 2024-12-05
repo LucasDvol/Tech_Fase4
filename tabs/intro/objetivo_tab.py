@@ -14,4 +14,4 @@ class ObjetivoTab(TabInterface):
                  O objetivo do desafio é desenvolver um dashboard interativo que integre storytelling com um modelo de machine learning para prever o preço diário do petróleo. O dashboard busca ser informativo, envolvente e acessível, fornecendo insights significativos sobre as variações do preço do petróleo, derivados de fatores como geopolítica, crises econômicas, demanda global por energia e avanços tecnológicos.
             ''')
 
-            st.image('assets/img/refinaria.png', caption='Refinaria de petróleo: transformando o ouro negro em produtos essenciais')
+            #st.image('assets/img/refinaria.png', caption='Refinaria de petróleo: transformando o ouro negro em produtos essenciais')
